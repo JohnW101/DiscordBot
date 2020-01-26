@@ -1,4 +1,3 @@
-```md
 JawnBot BOT LIST
 Triggers
 #1 - "jawn" [Triggers bot to respond with "yes"]
@@ -12,4 +11,3 @@ Triggers
 <MISCELLANEOUS>
 "vip" - Triggers bot to send my Dungeon Quest VIP link.
 -------------------------------------------------------------------------
-```
